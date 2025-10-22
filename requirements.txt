@@ -1,4 +1,3 @@
 discord.py
-PayPaython-mobile
-pycryptodome
+requests
 python-dotenv
